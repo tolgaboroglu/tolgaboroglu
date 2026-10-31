@@ -46,9 +46,37 @@ and build AI tools when a problem needs more than a report.
 
 ### Featured projects
 
-| Project | What it does | Built with |
-|---|---|---|
-| **[Spare Parts Supply Chain Analytics](https://github.com/tolgaboroglu/spare-parts-supply-chain-analytics)** | Data pipeline and Power BI dashboard for a bus manufacturer's spare-parts business. Six feeds from SAP ERP and SQL Server loaded nightly into an Azure SQL star schema; shows critical stock, fill rate, stock turnover and supplier performance. | Azure Data Factory, Azure SQL, T-SQL, Power BI, DAX |
-| **[Task SOP Generator](https://github.com/tolgaboroglu/task-sop-generator)** | MVP for an outsourcing company: finds repeated tasks in workers' screen captures, even when they switch between tasks, and writes step-by-step SOPs with inputs, outputs and rules. | Python, OCR, OpenCV, scikit-learn, LLMs |
-| **[Chatbot for Lawyers](https://github.com/tolgaboroglu/chatbot-for-lawyers-demo)** | AI legal assistant for a law firm in Turkey. Answers questions on legislation and case law and cites the exact sources. | Python, RAG, LLMs, BERTurk, Flask |
-| **[DocScan](https://github.com/tolgaboroglu/document_scanner_)** | Built for a German company: reads supplier invoices into bookkeeping fields with automatic checks, turns old paper records into searchable PDFs, scans business cards into contacts. | Python, OpenCV, Tesseract OCR, spaCy, Flask |
+<table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://github.com/tolgaboroglu/spare-parts-supply-chain-analytics"><img src="assets/spare-parts-supply-chain-analytics.webp" alt="Spare Parts Supply Chain Analytics" width="100%"></a>
+<br><sub><code>INDUSTRY PROJECT · AUTOMOTIVE</code></sub>
+<h3><a href="https://github.com/tolgaboroglu/spare-parts-supply-chain-analytics">Spare Parts Supply Chain Analytics</a></h3>
+Data pipeline and Power BI dashboard for a bus manufacturer's spare-parts business. Six feeds from SAP ERP and SQL Server loaded nightly into an Azure SQL star schema.
+<br><br><sub><b>Azure Data Factory · Azure SQL · Power BI · DAX</b></sub>
+</td>
+<td width="50%" valign="top">
+<a href="https://github.com/tolgaboroglu/task-sop-generator"><img src="assets/task-sop-generator.webp" alt="Task SOP Generator" width="100%"></a>
+<br><sub><code>CLIENT PROJECT · UPWORK · MVP</code></sub>
+<h3><a href="https://github.com/tolgaboroglu/task-sop-generator">Task SOP Generator</a></h3>
+Finds repeated tasks in workers' screen captures, even when they switch between tasks, and writes step-by-step SOPs with inputs, outputs and rules.
+<br><br><sub><b>Python · OCR · OpenCV · scikit-learn · LLMs</b></sub>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://github.com/tolgaboroglu/chatbot-for-lawyers-demo"><img src="assets/chatbot-for-lawyers-demo.webp" alt="Chatbot for Lawyers" width="100%"></a>
+<br><sub><code>CLIENT PROJECT · UPWORK · TURKEY</code></sub>
+<h3><a href="https://github.com/tolgaboroglu/chatbot-for-lawyers-demo">Chatbot for Lawyers</a></h3>
+AI legal assistant for a law firm in Turkey. Answers questions on legislation and case law and cites the exact sources.
+<br><br><sub><b>Python · RAG · LLMs · BERTurk · Flask</b></sub>
+</td>
+<td width="50%" valign="top">
+<a href="https://github.com/tolgaboroglu/document-scanner"><img src="assets/document-scanner.webp" alt="DocScan" width="100%"></a>
+<br><sub><code>CLIENT PROJECT · UPWORK · GERMANY</code></sub>
+<h3><a href="https://github.com/tolgaboroglu/document-scanner">DocScan</a></h3>
+Reads supplier invoices into bookkeeping fields with automatic checks, turns old paper records into searchable PDFs and scans business cards into contacts.
+<br><br><sub><b>Python · OpenCV · Tesseract · spaCy · Flask</b></sub>
+</td>
+</tr>
+</table>
