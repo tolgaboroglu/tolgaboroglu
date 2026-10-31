@@ -15,8 +15,8 @@ and build AI tools when a problem needs more than a report.
 
 ### What I do
 
-- **Data modelling & SQL:** design tables and transformations that turn messy source data into analysis-ready models.
-- **Dashboards & reporting:** Power BI and Tableau reports that answer real business questions, built on solid data models.
+- **Data modelling & ETL:** design SQL models and Azure Data Factory pipelines that turn messy source data into analysis-ready tables.
+- **Dashboards & reporting:** Power BI, Tableau and Metabase reports that answer real business questions, built on solid data models.
 - **Automation:** Python and Power Query pipelines that replace manual Excel work.
 - **Applied AI:** machine learning, NLP and document AI when the data allows it.
 
@@ -28,6 +28,10 @@ and build AI tools when a problem needs more than a report.
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 ![Power Query](https://img.shields.io/badge/Power%20Query-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
+![Metabase](https://img.shields.io/badge/Metabase-509EE3?style=flat-square&logo=metabase&logoColor=white)
+![Azure Data Factory](https://img.shields.io/badge/Azure%20Data%20Factory-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![ETL](https://img.shields.io/badge/ETL-4B5563?style=flat-square)
+![Data Modeling](https://img.shields.io/badge/Data%20Modeling-4B5563?style=flat-square)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
 
 **Engineering & AI:**
