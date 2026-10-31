@@ -48,5 +48,5 @@ and build AI tools when a problem needs more than a report.
 
 | Project | What it does | Built with |
 |---|---|---|
-| **[Chatbot for Lawyers](https://github.com/tolgaboroglu/chatbot-for-lawyers-demo)** | AI legal assistant for a law firm in Turkey. Answers questions on legislation and case law and cites the exact sources. Rated 5.0 on Upwork. | Python, RAG, LLMs, BERTurk, Flask |
+| **[Chatbot for Lawyers](https://github.com/tolgaboroglu/chatbot-for-lawyers-demo)** | AI legal assistant for a law firm in Turkey. Answers questions on legislation and case law and cites the exact sources. | Python, RAG, LLMs, BERTurk, Flask |
 | **[DocScan](https://github.com/tolgaboroglu/document_scanner_)** | Built for a German company: reads supplier invoices into bookkeeping fields with automatic checks, turns old paper records into searchable PDFs, scans business cards into contacts. | Python, OpenCV, Tesseract OCR, spaCy, Flask |
