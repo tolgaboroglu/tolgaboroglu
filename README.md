@@ -8,7 +8,6 @@ and build AI tools when a problem needs more than a report.
 
 <p align="center">
   <a href="https://tolgaboroglu.com"><img src="https://img.shields.io/badge/Website-tolgaboroglu.com-1f5c4a?style=flat-square" alt="Website"></a>
-  <a href="https://www.upwork.com/freelancers/~01f08ddbe6cbeae9eb"><img src="https://img.shields.io/badge/Upwork-Hire%20me-14a800?style=flat-square&logo=upwork&logoColor=white" alt="Upwork"></a>
   <a href="mailto:tolgaboroglu@gmail.com"><img src="https://img.shields.io/badge/Email-tolgaboroglu%40gmail.com-555?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
@@ -41,17 +40,13 @@ and build AI tools when a problem needs more than a report.
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
 
-### Featured client projects
+### Featured projects
 
 | Project | What it does | Built with |
 |---|---|---|
 | **[Chatbot for Lawyers](https://github.com/tolgaboroglu/chatbot-for-lawyers-demo)** | AI legal assistant for a law firm in Turkey. Answers questions on legislation and case law and cites the exact sources. Rated 5.0 on Upwork. | Python, RAG, LLMs, BERTurk, Flask |
 | **[DocScan](https://github.com/tolgaboroglu/document_scanner_)** | Built for a German company: reads supplier invoices into bookkeeping fields with automatic checks, turns old paper records into searchable PDFs, scans business cards into contacts. | Python, OpenCV, Tesseract OCR, spaCy, Flask |
 
-### Freelance
+### Freelance background
 
-7 completed projects on Upwork across data analysis, business intelligence, machine learning and chatbots. Clients mention clear communication, fast delivery and detailed handovers.
-
----
-
-<p align="center">Open to analytics engineering, data analysis and AI projects. <a href="mailto:tolgaboroglu@gmail.com">Get in touch</a>.</p>
+Before my current role, I completed 7 freelance projects on Upwork across data analysis, business intelligence, machine learning and chatbots. Clients highlighted clear communication, fast delivery and detailed handovers.
