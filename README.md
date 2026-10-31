@@ -48,5 +48,7 @@ and build AI tools when a problem needs more than a report.
 
 | Project | What it does | Built with |
 |---|---|---|
+| **[Spare Parts Supply Chain Analytics](https://github.com/tolgaboroglu/spare-parts-supply-chain-analytics)** | Data pipeline and Power BI dashboard for a bus manufacturer's spare-parts business. Six feeds from SAP ERP and SQL Server loaded nightly into an Azure SQL star schema; shows critical stock, fill rate, stock turnover and supplier performance. | Azure Data Factory, Azure SQL, T-SQL, Power BI, DAX |
+| **[Task SOP Generator](https://github.com/tolgaboroglu/task-sop-generator)** | MVP for an outsourcing company: finds repeated tasks in workers' screen captures, even when they switch between tasks, and writes step-by-step SOPs with inputs, outputs and rules. | Python, OCR, OpenCV, scikit-learn, LLMs |
 | **[Chatbot for Lawyers](https://github.com/tolgaboroglu/chatbot-for-lawyers-demo)** | AI legal assistant for a law firm in Turkey. Answers questions on legislation and case law and cites the exact sources. | Python, RAG, LLMs, BERTurk, Flask |
 | **[DocScan](https://github.com/tolgaboroglu/document_scanner_)** | Built for a German company: reads supplier invoices into bookkeeping fields with automatic checks, turns old paper records into searchable PDFs, scans business cards into contacts. | Python, OpenCV, Tesseract OCR, spaCy, Flask |
