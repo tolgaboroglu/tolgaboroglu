@@ -15,7 +15,7 @@ and build AI tools when a problem needs more than a report.
 
 ### What I do
 
-- **Data modelling & ETL:** design SQL models and Azure Data Factory pipelines that turn messy source data into analysis-ready tables.
+- **Data modelling & ETL:** design SQL models and ETL pipelines on Google Cloud (BigQuery, Dataflow) and Azure (Data Factory) that turn messy source data into analysis-ready tables.
 - **Dashboards & reporting:** Power BI, Tableau and Metabase reports that answer real business questions, built on solid data models.
 - **Automation:** Python and Power Query pipelines that replace manual Excel work.
 - **Applied AI:** machine learning, NLP and document AI when the data allows it.
@@ -25,10 +25,12 @@ and build AI tools when a problem needs more than a report.
 **Analytics:**
 ![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+![BigQuery](https://img.shields.io/badge/BigQuery-669DF6?style=flat-square&logo=googlebigquery&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 ![Power Query](https://img.shields.io/badge/Power%20Query-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
 ![Metabase](https://img.shields.io/badge/Metabase-509EE3?style=flat-square&logo=metabase&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
 ![Azure Data Factory](https://img.shields.io/badge/Azure%20Data%20Factory-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
 ![ETL](https://img.shields.io/badge/ETL-4B5563?style=flat-square)
 ![Data Modeling](https://img.shields.io/badge/Data%20Modeling-4B5563?style=flat-square)
